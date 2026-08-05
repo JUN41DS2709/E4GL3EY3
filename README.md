@@ -4,6 +4,8 @@
 
 A terminal-based passive domain reconnaissance framework built with Python. It gathers publicly available information about a target domain to assist with reconnaissance and information gathering.
 
+![ss](Screenshots/1.png)
+
 > **Disclaimer:** This tool is intended for educational purposes and authorized security assessments only.
 
 ---
@@ -64,6 +66,8 @@ python main.py
 ```
 
 Enter the target domain when prompted.
+
+![ss](Screenshots/2.png)
 
 Example:
 
